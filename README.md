@@ -11,3 +11,10 @@ A Project to Compare Build Tools: Ant and Gradle
 
 3. GitStats
   Contains graphs and charts that compare Ant and Gradle based on various GitHub statistics
+
+4. HotelMgmtApp_Ant
+   It involves the MVC architecture with multiple classes having inheritance. It involves multiple jar files and interaction with                                
+   database. The ant build file was generated using Gradle.
+   
+5. HotelMgmtApp_Gradle
+   Contains the same code as HotelMgmtApp_Ant with a gradle build file.
