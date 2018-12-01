@@ -18,3 +18,5 @@ A Project to Compare Build Tools: Ant and Gradle
    
 5. HotelMgmtApp_Gradle
    Contains the same code as HotelMgmtApp_Ant with a gradle build file.
+
+6. The the results file is a spreadsheet that conatins the build times averaged over 5 runs.
